@@ -53,6 +53,7 @@ public class Company {
 		System.out.println("员工信息删除成功！");
 	}
 	
+	
 	public void find(int id)
 	{
 		for (Employee x:employee)
