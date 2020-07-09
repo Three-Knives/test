@@ -8,6 +8,7 @@ public class Company {
 	private ArrayList<Employee> employee;
 	private ArrayList<DakaInfo> dakainfo;
 	
+	
 	private Company() 
 	{
 		employee=new ArrayList<Employee>();
